@@ -1,5 +1,3 @@
-Watch the video 👇
-
 
 
 # docker-lamp
@@ -17,7 +15,7 @@ Open web browser to look at a simple php example at [http://127.0.0.1:80](http:/
 
 Clone YourProject on `www/` and then, open web [http://127.0.0.1/YourProject](http://127.0.0.1/YourProject)
 
-Run MySQL client:
+Run MySQL Person:
 
 - `docker-compose exec db mysql -u root -p` 
 
